@@ -1,0 +1,15 @@
+{
+  "name": "beat-cli",
+  "version": "1.0.0",
+  "description": "beat-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "wwpeng520 <wwpeng520@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
