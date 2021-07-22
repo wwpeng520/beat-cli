@@ -5,8 +5,6 @@ node_modules
 packages/**/node_modules
 
 lerna-debug.log
-packages-lock.json
-yarn.lock
 
 .DS_Store
 **/.DS_Store
