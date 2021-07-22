@@ -5,6 +5,9 @@
   "author": "wwpeng520 <wwpeng520@gmail.com>",
   "homepage": "",
   "license": "ISC",
+  "bin": {
+    "beat-cli": "bin/index.js"
+  },
   "main": "lib/index.js",
   "directories": {
     "lib": "lib",
