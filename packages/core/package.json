@@ -1,12 +1,12 @@
 {
-  "name": "@beat-cli/core",
+  "name": "@beats-cli/core",
   "version": "0.0.3",
-  "description": "beat-cli core",
+  "description": "beats-cli core",
   "author": "wwpeng520 <wwpeng520@gmail.com>",
   "homepage": "",
   "license": "ISC",
   "bin": {
-    "beat-cli": "bin/index.js"
+    "beats-cli": "bin/index.js"
   },
   "main": "lib/index.js",
   "directories": {

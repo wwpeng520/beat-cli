@@ -1,7 +1,7 @@
 {
-  "name": "@beat-cli/utils",
+  "name": "@beats-cli/utils",
   "version": "0.0.3",
-  "description": "beat-cli utils",
+  "description": "beats-cli utils",
   "author": "wwpeng520 <wwpeng520@gmail.com>",
   "homepage": "",
   "license": "ISC",

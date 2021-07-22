@@ -1,3 +1,3 @@
 #! /usr/bin/env node
 
-console.log('hello beat-cli');
+console.log('hello beats-cli');
